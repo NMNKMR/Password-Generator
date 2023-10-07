@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url('https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?w=900&t=st=1696677680~exp=1696678280~hmac=72afe1555156955e7e9743ce88e1e5cd78d8000f4c715bfb907e913cc561bf31');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
